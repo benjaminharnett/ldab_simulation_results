@@ -7,7 +7,7 @@ The adoption of the codex for literature in the Roman world was one of the most 
 Copyright © 2017 by The Regents of the University of California.)
 
 ## Simulation
-As part of research for my article, "The Diffusion of the Codex," I ran Monte Carlo simulations on ancient book finds recorded in the Leuven Database of Ancient Books (LDAB: http://www.trismegistos.org/ldab/index.php) in order to get a clearer picture of the adoption curve for the codex book in the Roman world. For more information consult pp. 211-21 of the article.
+As part of the research for my article, "The Diffusion of the Codex," I ran Monte Carlo simulations on ancient book finds recorded in the Leuven Database of Ancient Books (LDAB: http://www.trismegistos.org/ldab/index.php) in order to get a clearer picture of the adoption curve for the codex book in the Roman world. For more information consult pp. 211-21 of the article.
 
 ## Files
 In this repo you will find two tab-separated files. One contains the results of 10,000 simulations on texts from the LDAB matching these characteristics: Greek for the language (or as one of the languages), origin or discovery in Egypt, in codex or roll form, in material parchment or papyrus, and identified as culture: “literature.” Each row has the TM nr for the text, the type (roll or codex), followed by the start and end dates of the date range as determined according to the method on page 47, followed by the midpoint of those dates and the resultant standard deviation if the start and end points had represented 2 standard deviations from the midpoint. These columns are followed by the results of each simulation, first the individual date determined, then the “bucket” that date is placed in. E.g.:
