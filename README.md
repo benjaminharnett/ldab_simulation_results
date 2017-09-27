@@ -6,7 +6,9 @@ The adoption of the codex for literature in the Roman world was one of the most 
 (from Classical Antiquity, Vol. 36, Issue 2, pp. 183–235. ISSN: 0278-6656(p); 1067-8344(e)
 Copyright © 2017 by The Regents of the University of California.)
 
+## Simulations
 In this repo you will find two tab-separated files. One contains the results of 10,000 simulations on texts from the LDAB matching these characteristics: Greek for the language (or as one of the languages), origin or discovery in Egypt, in codex or roll form, in material parchment or papyrus, and identified as culture: “literature.” Each row has the TM nr for the text, the type (roll or codex), followed by the start and end dates of the date range as determined according to the method on page 47, followed by the midpoint of those dates and the resultant standard deviation if the start and end points had represented 2 standard deviations from the midpoint. These columns are followed by the results of each simulation, first the individual date determined, then the “bucket” that date is placed in. E.g.:
+
 1845 roll −263 −229 −246 8.5 −242 −3 . . .
 
 This file is called simulation_1.tsv.
