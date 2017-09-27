@@ -17,3 +17,4 @@ A second file, simulation_2.tsv, is in the same format but with fewer rows, as i
 
 There are six additional files: three for each of the simulation runs. A first file has been generated which shows only the frequencies of codices against roll for each of the numbered buckets, which are converted to dates, taking the final year (in fact, the bucket ends on the last day of the previous year) of each bucket for graphing. This is called simulation_n_freq.tsv, where n is the number of the simulation (1 or 2). A second file called simulation_n_avg.tsv (n=1 or 2) contains only the average for the 10,000 simulations. The final file, simulation_n_sc.tsv contains the best-fit S-curve for the respective simulation.
 
+<strong>Note:</strong> simulation_1.tsv and simulation_2.tsv have been stored in this repos as gzipped tarballs due to their size.
